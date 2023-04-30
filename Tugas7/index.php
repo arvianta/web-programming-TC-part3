@@ -67,7 +67,7 @@
 <body>
     <header>
         <h3>Pendaftaran Siswa Baru</h3>
-        <h1>SMK Coding</h1>
+        <h1>SMA Ganteng</h1>
     </header>
 
     <nav>
